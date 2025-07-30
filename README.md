@@ -2,7 +2,7 @@ Here are **seven high-level AWS + Apache Airflow data‑engineering projects**, 
 
 ---
 
-### 1. **Spotify Streaming Analytics**
+### 1. **Spotify Streaming Analytics(Vijay)**
 
 **Dataset**: Spotify Kaggle dataset (artist, album, track features)
 **Overview**:
