@@ -56,7 +56,7 @@ Here are **seven high-level AWS + Apache Airflow data‑engineering projects**, 
 
 ---
 
-### 5. **Weather Time Series Pipeline**
+### 5. **Weather Time Series Pipeline(SaiCharan)**
 
 **Dataset**: Kaggle WeatherBench or NOAA weather CSV datasets
 **Overview**:
@@ -69,7 +69,7 @@ Here are **seven high-level AWS + Apache Airflow data‑engineering projects**, 
 
 ---
 
-### 6. **IoT Sensor Anomaly Detection**
+### 6. **IoT Sensor Anomaly Detection(Dhruv)**
 
 **Dataset**: Synthetic IoT sensor data from Kaggle or generated via Faker, formatted as time series.
 **Overview**:
@@ -83,7 +83,7 @@ Here are **seven high-level AWS + Apache Airflow data‑engineering projects**, 
 
 ---
 
-### 7. **Public Transport Demand Aggregation**
+### 7. **Public Transport Demand Aggregation(rjun)**
 
 **Dataset**: Kaggle open transportation or city transit logs (e.g. NYC taxi, London transport)
 **Overview**:
