@@ -83,7 +83,7 @@ Here are **seven high-level AWS + Apache Airflow data‑engineering projects**, 
 
 ---
 
-### 7. **Public Transport Demand Aggregation(rjun)**
+### 7. **Public Transport Demand Aggregation(Arjun)**
 
 **Dataset**: Kaggle open transportation or city transit logs (e.g. NYC taxi, London transport)
 **Overview**:
