@@ -43,7 +43,7 @@ Here are **seven high-level AWS + Apache Airflow data‑engineering projects**, 
 
 ---
 
-### 4. **Credit‑Card Fraud Detection Stream + Batch**
+### 4. **Credit‑Card Fraud Detection Stream + Batch(Dhanyamol)**
 
 **Dataset**: Kaggle credit‑card transactions dataset (real or simulated)
 **Overview**:
