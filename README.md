@@ -69,7 +69,7 @@ Here are **seven high-level AWS + Apache Airflow data‑engineering projects**, 
 
 ---
 
-### 6. **Weather Time Series Pipeline(SaiCharan)**
+### 6. **Weather Time Series Pipeline(Dhuruv)**
 
 **Dataset**: Synthetic IoT sensor data from Kaggle or generated via Faker, formatted as time series.
 **Overview**:
